@@ -8,7 +8,7 @@ this microservice have below features <br>
 ---> add questions <br>
 
 ## quiz service:
----> create quiz 
+---> create quiz <br>
 ---> get questions for quiz <br>
 ---> get score for a quiz <br>
 
