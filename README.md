@@ -1,6 +1,6 @@
 # Quiz-microservices 
 
-this microservice have below features <br> 
+This microservice have below features <br> 
 
 ## question service:
 ---> list all the questions <br>
