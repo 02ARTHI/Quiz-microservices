@@ -13,5 +13,6 @@ This microservice have below features <br>
 ---> get score for a quiz <br>
 
 ## URL FOR QUESTION SERVICE
+1) GET -> http://localhost:port/questions
 
 ## URL FOR QUIZ SERVICE
